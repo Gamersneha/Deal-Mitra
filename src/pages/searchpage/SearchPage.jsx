@@ -4,7 +4,7 @@ import { FaStar, FaUserCircle } from "react-icons/fa";
 
 // Predefined filters (same as SearchPage)
 const filters = [
-  "Bags",
+  "Bag",
   "Shoes",
   "Jackets",
   "Electronics",
